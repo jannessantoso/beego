@@ -57,28 +57,22 @@
 			"revisionTime": "2018-11-30T13:54:26Z"
 		},
 		{
-			"checksumSHA1": "J6lNRPdrYhKft6S8x33K9brxyhE=",
+			"checksumSHA1": "ETfjuu5F8ejF27iatik4uPga2VQ=",
 			"path": "golang.org/x/crypto/acme",
-			"revision": "c126467f60eb25f8f27e5a981f32a87e3965053f",
-			"revisionTime": "2018-07-23T15:26:11Z"
+			"revision": "ff983b9c42bc9fbf91556e191cc8efb585c16908",
+			"revisionTime": "2018-07-25T11:53:45Z"
 		},
 		{
-			"checksumSHA1": "EFjIi/zCZ1Cte0MQtyxGCTgSzk8=",
+			"checksumSHA1": "Yjacru/DE9yXphaefh67NrjNgAk=",
 			"path": "golang.org/x/crypto/acme/autocert",
-			"revision": "c126467f60eb25f8f27e5a981f32a87e3965053f",
-			"revisionTime": "2018-07-23T15:26:11Z"
+			"revision": "ff983b9c42bc9fbf91556e191cc8efb585c16908",
+			"revisionTime": "2018-07-25T11:53:45Z"
 		},
 		{
-			"checksumSHA1": "1MGpGDQqnUoRpv7VEcQrXOBydXE=",
-			"path": "golang.org/x/crypto/pbkdf2",
-			"revision": "c126467f60eb25f8f27e5a981f32a87e3965053f",
-			"revisionTime": "2018-07-23T15:26:11Z"
-		},
-		{
-			"checksumSHA1": "ZSWoOPUNRr5+3dhkLK3C4cZAQPk=",
+			"checksumSHA1": "QqDq2x8XOU7IoOR98Cx1eiV5QY8=",
 			"path": "gopkg.in/yaml.v2",
-			"revision": "5420a8b6744d3b0345ab293f6fcba19c978f1183",
-			"revisionTime": "2018-03-28T19:50:20Z"
+			"revision": "51d6538a90f86fe93ac480b35f37b2be17fef232",
+			"revisionTime": "2018-11-15T11:05:04Z"
 		}
 	],
 	"rootPath": "beego"
